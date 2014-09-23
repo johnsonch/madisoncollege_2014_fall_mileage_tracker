@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: 
+  location: MyString
+  number_of_gallons: 1.5
+  miles_since_last_fillup: 1
+  price_per_gallon: 1.5
+  car_id: 1
+
+two:
+  date: 
+  location: MyString
+  number_of_gallons: 1.5
+  miles_since_last_fillup: 1
+  price_per_gallon: 1.5
+  car_id: 1
